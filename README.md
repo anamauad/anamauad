@@ -6,7 +6,7 @@ Sou Analista de sistemas Java e Web :computer:
 
 <br/> :construction_worker: &nbsp; Atualmente trabalho no **CIASC**, desenvolvendo software relacionado à área de trânsito como, por exemplo, o [portal digital do Detran SC](https://servicos.detran.sc.gov.br/login) e o software interno utilizado pelo Detran SC.
 <br/> :books: &nbsp; Estou estudando React e ReactNative na **Rocketseat**
-<br/> :computer: &nbsp; Stack: Java, Quarkus, Javascript, CSS, HTML5, NodeJS, SpringBoot, WebComponents, ChartJS, Webpack
+<br/> :computer: &nbsp; Stack: Java, Quarkus, Javascript, CSS, HTML5, Flutter, NodeJS, SpringBoot, WebComponents, ChartJS, Webpack
 <br/> :art: &nbsp; Análise: Levantamento e análise de requisitos, modelagem de dados
 <br/> :speech_balloon: &nbsp; Sobre mim: Sou apaixonada por música clássica (especialmente piano) e também gosto de rock, pop, samba e choro. Gosto de ler livros impressos ao invés dos digitais.
 <br/> :loudspeaker: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/--blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anapaulamauad/)](https://www.linkedin.com/in/anapaulamauad/)
@@ -19,7 +19,7 @@ I'm a Java and Web systems analyst :computer:
 
 <br/> :construction_worker: &nbsp; I’m currently working at **CIASC**, developing software for Detran SC and transit services related to Detran SC.
 <br/> :books: &nbsp; I’m currently learning React and ReactNative at **Rocketseat**
-<br/> :computer: &nbsp; Stack: Java, Quarkus, Javascript, CSS, HTML5, NodeJS, SpringBoot, WebComponents, ChartJS, Webpack
+<br/> :computer: &nbsp; Stack: Java, Quarkus, Javascript, CSS, HTML5, Flutter, NodeJS, SpringBoot, WebComponents, ChartJS, Webpack
 <br/> :art: &nbsp; Analysis: Requirements gathering and analysis, data models
 <br/> :speech_balloon: &nbsp; About me: I love classic music (specially piano) and I also like rock and roll, pop, samba and *choro*. I like to read printed books instead of digital ones.
 <br/> :loudspeaker: &nbsp; How to reach me: [![Linkedin Badge](https://img.shields.io/badge/--blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anapaulamauad/)](https://www.linkedin.com/in/anapaulamauad/)
