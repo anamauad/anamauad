@@ -24,6 +24,15 @@ I'm a Java and Web systems analyst :computer:
 <br/> :speech_balloon: &nbsp; About me: I love classical music, especially with piano, and I also enjoy rock and roll, pop, samba and *choro*. I like to read printed books instead of digital ones.
 <br/> :loudspeaker: &nbsp; How to reach me: [![Linkedin Badge](https://img.shields.io/badge/--blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anapaulamauad/)](https://www.linkedin.com/in/anapaulamauad/)
 
+---
+
+<div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=anamauad&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anamauad&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+ 
+ 
 <!--
 
 ### O que deve ter no seu README?
